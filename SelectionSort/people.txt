@@ -1,0 +1,3 @@
+﻿Jane,Doe,f,0,Odense,1999
+John,Doe,m,1,Nyborg,2000
+Donald,Trump,f,Washington,1881
